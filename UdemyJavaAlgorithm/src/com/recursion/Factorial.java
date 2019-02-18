@@ -1,5 +1,6 @@
 package com.recursion;
 class fact{
+	
 public static int factorial1(int n) {
 	
 	if(n==1)
@@ -22,6 +23,7 @@ public static int factorial1(int n) {
 
 	}
 }
+//Added comment 
 public class Factorial extends fact{
 public static void main(String str[])
 {

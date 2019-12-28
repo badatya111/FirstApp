@@ -1,2 +1,2 @@
 # FirstApp
-Need know how it's working 
+Need to know how it's working 
